@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target":
+    {
+        "namespace": "android_app",
+        "package_name": "app.goodspot",
+        "sha256_cert_fingerprints": ["23:01:56:EE:69:FA:4B:27:9D:E8:A9:35:43:28:76:EE:D2:CB:A2:4A:22:0C:EA:0A:22:05:D7:51:69:95:1C:57"]
+    }
+}]
